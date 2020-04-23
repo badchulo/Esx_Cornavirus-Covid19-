@@ -1,6 +1,8 @@
 
 [you need a lizenz from me to youse this script Discord: 𝓛𝓲𝓽𝓽𝓵𝓮 𝓢𝓲𝓼𝓺𝓸#9505]
 
+Fenerheroßs Developing: https://discord.gg/nsZsd4X
+
 
 𝐞𝐬𝐱_𝐜𝐨𝐫𝐨𝐧𝐚
 
