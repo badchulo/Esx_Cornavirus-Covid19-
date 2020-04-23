@@ -9,13 +9,19 @@ Fenerheroßs Developing: https://discord.gg/nsZsd4X
 
 Covid19 now in Fivem
 
-◆ Contaminate a player randomly
-◆ Cough / Sneeze animation with synced FX
-◆ If other players are nearby when you cough, they will be infected
-◆ Wearing a mask protects you
-◆ A vaccine is usable (add the item in db)
-◆ Random ragdoll
-◆ Some settings available
+◆Contaminate a player randomly
+
+◆Cough / Sneeze animation with synced FX
+
+◆If other players are nearby when you cough, they will be infected
+
+◆Wearing a mask protects you
+
+◆A vaccine is usable (add the item in db)
+
+◆Random ragdoll
+
+◆Some settings available
 
 
 𝐑𝐞𝐪𝐮𝐢𝐫𝐞𝐦𝐞𝐧𝐭𝐬
